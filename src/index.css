@@ -10,3 +10,6 @@ body {
 #root {
   @apply px-4;
 }
+body {
+  @apply bg-gray-100 text-gray-900;
+}

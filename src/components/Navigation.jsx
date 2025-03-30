@@ -2,10 +2,10 @@ import { NavLink } from 'react-router-dom';
 
 function Navigation() {
   const baseClass = 'text-gray-700 hover:text-blue-600 font-medium transition';
-  const activeClass = 'text-blue-600 font-semibold underline';
+  const activeClass = 'text-blue-600 font-bold underline';
 
   return (
-    <nav className="flex flex-wrap justify-center gap-6">
+    <nav className="flex flex-wrap justify-center gap-6 mt-2">
       <NavLink
         to="/"
         end

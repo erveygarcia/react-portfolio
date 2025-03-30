@@ -7,7 +7,7 @@ function Resume() {
 
       <div className="text-center mb-8">
         <a
-          href="/assets/resume.pdf"
+          href="/Assets/resume.pdf"
           download
           className="inline-flex items-center gap-2 bg-blue-600 text-white font-medium px-6 py-2 rounded shadow hover:bg-blue-700 transition"
         >
